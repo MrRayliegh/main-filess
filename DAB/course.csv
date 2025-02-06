@@ -1,0 +1,272 @@
+"course_id";"instructor_id_id";"program_id";"course_code";"course_name";"department";"credit_hours";"prerequisites";"school_year";"semester"
+1;0;1;"GEC-TCW";"The Contemporary World";"COED";3;"{}";"2023-2024";1
+2;0;1;"GEC-AA";"Art Appreciation";"COED";3;"{}";"2023-2024";1
+3;0;1;"GEC-US";"Understanding the Self";"COED";3;"{}";"2023-2024";1
+4;0;1;"ED 111/ED-FC 1/ProfEd-E 211";"The Child and Adolescent Learner and Learning Principles";"COED";3;"{}";"2023-2024";1
+5;0;1;"ED 112/ED-FC 2/ProfEd-E 323";"The Teaching Profession";"COED";3;"{}";"2023-2024";1
+6;0;1;"TLE 111/MC 2";"Edukasyong Pantahanan at Pangkabuhayan";"COED";3;"{}";"2023-2024";1
+7;0;1;"VED 112/MC 3";"Good Manners and Right Conduct (Edukasyon sa Pagpakatao)";"COED";3;"{}";"2023-2024";1
+8;0;1;"PATHFit 1";"Physical Activities Towards Health and Fitness 1: Movement Compentency Training";"COED";2;"{}";"2023-2024";1
+9;0;1;"NSTP 1";"National Service Training Program 1 (CWTS 1/LTS 1/ROTC 1)";"COED";3;"{}";"2023-2024";1
+10;0;1;"GEC-LWR";"Life and Works of Rizal";"COED";3;"{}";"2023-2024";2
+11;0;1;"GEC-MMW";"Mathematics in the Modern World";"COED";3;"{}";"2023-2024";2
+12;0;1;"GEC-E";"Ethics";"COED";3;"{}";"2023-2024";2
+13;0;1;"ED 123";"Facilitating Learner-Centered Teaching";"COED";3;"{}";"2023-2024";2
+14;0;1;"ED 124/ED-FC 3";"Foundation of Special and Inclusive Education";"COED";3;"{}";"2023-2024";2
+15;0;1;"TLE 123/MC 3";"Edukasyung Pantahanan at Pangkabuhayan with Entrepreneurship";"COED";3;"{}";"2023-2024";2
+16;0;1;"FIL 124/MC 4";"Pagtuturo ng Filipino sa Elementary(I)- Estruktura at Gamit ng Wikang Filipino";"COED";3;"{}";"2023-2024";2
+19;0;1;"GEC-PC";"Purposive Communication";"COED";3;"{}";"2023-2024";1
+20;0;1;"GEC-STS";"Science,Technology, and Society";"COED";3;"{}";"2023-2024";1
+21;0;1;"GEC-STS";"Science,Technology, and Society";"COED";3;"{}";"2023-2024";1
+22;0;1;"GEE-KKF";"Kontekstuwalisadong Komunikasyon sa Filipino";"COED";3;"{}";"2023-2024";1
+23;0;1;"ED 215/ProfEd-E 324";"Technology for Teaching and Learning 1";"COED";3;"{}";"2023-2024";1
+24;0;1;"ED 216/ProfEd-E 312";"Assessment Learning 1";"COED";3;"{}";"2023-2024";1
+27;0;1;"TTL 217/MC 7";"Pagtuturo ng Filipino sa Elementary Grades";"COED";3;"{}";"2023-2024";1
+28;0;1;"TD 1";"Into to Design and Fundamentals Sketching";"COED";3;"{}";"2023-2024";1
+30;0;1;"GEC-RPH";"Reading Philippine History";"COED";3;"{}";"2023-2024";2
+31;0;1;"GEE-GSPS";"Gender and Society with Peace Studies";"COED";3;"{}";"2023-2024";2
+33;0;1;"ED 228";"The Teacher and The Community, School Culture and Organizational Leadership";"COED";3;"{}";"2023-2024";2
+34;0;1;"PEH 228/MC 8";"Teaching PE and Health in the Elementary Grades";"COED";3;"{}";"2023-2024";2
+35;0;1;"MTB-MLE 229/MC 9";"Content and Pedagogy for the Mother-Tongue";"COED";3;"{}";"2023-2024";2
+36;0;1;"SSC 2210/MC 10";"Teaching Social Studies in the Elementary Grades (Culture and Geography)";"COED";3;"{}";"2023-2024";2
+37;0;1;"MUSIC 2211/MC 11";"Teaching Music in the Elementary Grades";"COED";3;"{}";"2023-2024";2
+39;0;1;"GEE-TEM";"The Entrepreneurial Mind";"COED";3;"{}";"2021-2022";1
+40;0;1;"GEE-ICC";"Indigenous Creative Crafts";"COED";3;"{}";"2021-2022";1
+41;0;1;"GEE-LIE";"Living in the IT Era";"COED";3;"{}";"2021-2022";1
+42;0;1;"GEE-FE";"Functional English";"COED";3;"{}";"2021-2022";1
+43;0;1;"ED 319";"The Teacher and the School Curriculum";"COED";3;"{}";"2021-2022";1
+44;0;1;"ED 3110";"Building and Enhancing New Literacies Across the Curriculum";"COED";3;"{}";"2021-2022";1
+45;0;1;"MATH 3112/MC 12";"Teaching Math in the Primary Grades";"COED";3;"{}";"2021-2022";1
+46;0;1;"ENG 3113/MC 13";"Teaching English in the Elementary Grades (Language Arts)";"COED";3;"{}";"2021-2022";1
+47;0;1;"SCI 3115/MC 14";"Teaching Science in the Elementary Grades (Biology and Chemistry)";"COED";3;"{}";"2021-2022";1
+48;0;1;"ENG 3215/MC 15";"Teaching English in Elementary Grades Through Literature";"COED";3;"{}";"2021-2022";2
+49;0;1;"MATH 3216/MC 16";"Teaching Math in Intermediate Grades";"COED";3;"{}";"2021-2022";2
+50;0;1;"SSC 3217/MC 17";"Teaching Social Studies in Elementary Grades(Philippine History and Government)";"COED";3;"{}";"2021-2022";2
+51;0;1;"SCI 3218/MC 18";"Teaching Science in the Elementary Grades (Physics, Earth and Space Science)";"COED";3;"{}";"2021-2022";2
+52;0;1;"RES 3219/MC 19";"Research in Education 1,COED";"COED";3;"{}";"2021-2022";2
+53;0;1;"Prof.Elec 1";"Teaching Multi-Grade Classes";"COED";3;"{}";"2021-2022";2
+54;0;1;"ED 3211/ED-LE 1";"Learning Enhancement 1";"COED";5;"{}";"2021-2022";2
+60;0;2;"GEC-TCW";"The Contemporary World";"COED";3;"{}";"2023-2024";1
+61;0;2;"GEC-AA";"Art Appreciation";"COED";3;"{}";"2023-2024";1
+62;0;2;"GEC-US";"Understanding the Self";"COED";3;"{}";"2023-2024";1
+63;0;2;"ED 111/ED-FC1";"The Child and Adolescent Learner and Learning Principles";"COED";3;"{}";"2023-2024";1
+64;0;2;"ED 112/ED-FC2";"The  Teaching Profession";"COED";3;"{}";"2023-2024";1
+65;0;2;"BTLED-TEC 111/BTVTED-TLE 111";"Introduction to Industrial Arts Part 1";"COED";3;"{}";"2023-2024";1
+66;0;2;"BTLED-TEC 112/BTVTED-TLE 112";"Home Economics Literacy";"COED";3;"{}";"2023-2024";1
+67;0;2;"BTLED-TEC 113";"Introduction to ICT Specializations 1";"COED";3;"{}";"2023-2024";1
+68;0;2;"PATHFit 1";"Physical Activities Towards Health and Fitness 1: Movement Compentency Training";"COED";2;"{}";"2023-2024";1
+69;0;2;"NSTP 1";"National Service Training Program 1(CWTS 1/ROTC 1)";"COED";3;"{}";"2023-2024";1
+70;0;2;"GEC-TCW";"Life and Works of Rizal";"COED";3;"{}";"2023-2024";2
+71;0;2;"GEC-MMW";"Mathematics in the Modern World";"COED";3;"{}";"2023-2024";2
+72;0;2;"GEC-C";"Ethics";"COED";3;"{}";"2023-2024";2
+73;0;2;"ED 123/ED-PCK 1";"Facilities Learner-Centere Teaching:The Learned-Centered Aprroaches with Emphasis on Trainers Methodology 1";"COED";3;"{}";"2023-2024";2
+74;0;2;"ED 124/ED-FC3";"Foundation of Special and Inclusive Education";"COED";3;"{}";"2023-2024";2
+76;0;2;"BTLED-TEC 125";"Family and Consumer Life Skills";"COED";3;"{}";"2023-2024";2
+81;0;2;"GEC-PC";"Purposive Communication";"COED";3;"{}";"2023-2024";1
+82;0;2;"GEC-STS";"Science,Technology and Society";"COED";3;"{}";"2023-2024";1
+83;0;2;"GEE-KKF";"Komtekstuwalisadong Komunikasyon sa Filipino";"COED";3;"{}";"2023-2024";1
+84;0;2;"GEE-PPC";"Philippine Popular Culture";"COED";3;"{}";"2023-2024";1
+85;0;2;"ED 215/ED-PCK2";"Technology for Teaching and Learning 1";"COED";3;"{}";"2023-2024";1
+86;0;2;"ED 216/ED-PCK3";"Assessment in Learning 1";"COED";3;"{}";"2023-2024";1
+87;0;2;"BTLED-TEC 217";"Agri-Fishery Part 1";"COED";3;"{}";"2023-2024";1
+88;0;2;"BTLED-TEC 218";"Entrepreneurship";"COED";3;"{}";"2023-2024";1
+89;0;2;"TD 1";"Introduction to Design and Fundamental Sketching";"COED";3;"{}";"2023-2024";1
+91;0;2;"GEC-RPH";"Reading in Philippine History";"COED";3;"{}";"2023-2024";2
+92;0;2;"GEE-GSPS";"Gender and Society with Peace Studies";"COED";3;"{}";"2023-2024";2
+94;0;2;"ED 228/ED-FC4";"The Teacher annd the Community, School Culture and Organizational Leadership with focus on the Philipine TVET System";"COED";3;"{}";"2023-2024";2
+96;0;2;"BTLED-HE 221";"Household and Resource Management";"COED";5;"{}";"2023-2024";2
+97;0;2;"BTLED-HE 222";"Consumer Education";"COED";5;"{}";"2023-2024";2
+98;0;2;"BTLED-HE 223";"Child and Adolescent Development";"COED";5;"{}";"2023-2024";2
+99;0;2;"BTLED-HE 224";"Marriage and Family Relationship";"COED";5;"{}";"2023-2024";2
+101;0;2;"GEE-LD";"Literatures for Development";"COED";3;"{}";"2021-2022";1
+102;0;2;"GEE-FE";"Functional English";"COED";3;"{}";"2021-2022";1
+103;0;2;"GEE-LIE";"Living in IT Era";"COED";3;"{}";"2021-2022";1
+104;0;2;"ED 319/ED-PCK5";"Curriculom Development and Evaluation with Emphasis on TrAINERS Methodology II";"COED";3;"{}";"2021-2022";1
+105;0;2;"ED 3110/ED-PCK6";"Building and Enhancing New Literacies Across the Curriculum with Emphasis on the 21st Century Skills";"COED";3;"{}";"2021-2022";1
+107;0;2;"BTLED-HE 315";"Principles of Food Preparation";"COED";5;"{}";"2021-2022";1
+108;0;2;"BTLED-HE 316";"Food and Nutrition";"COED";5;"{}";"2021-2022";1
+109;0;2;"BTLED-HE 317";"Clothing,Selection,Purchase and Care";"COED";3;"{}";"2021-2022";1
+110;0;2;"BTLED-HE 328";"Clothing Construction";"COED";5;"{}";"2021-2022";2
+111;0;2;"BTLED-HE 329";"Arts in Daily Living";"COED";5;"{}";"2021-2022";2
+112;0;2;"BTLED-HE 3210";"Crafts Design(Handicraft)";"COED";5;"{}";"2021-2022";2
+113;0;2;"BTLED-HE 3211";"Fundamentals of  Food Technology";"COED";5;"{}";"2021-2022";2
+114;0;2;"BTLED-HE 3212";"School Food Service Management";"COED";5;"{}";"2021-2022";2
+115;0;2;"RES 1";"Technology Research 1(Methods of Research)";"COED";3;"{}";"2021-2022";2
+116;0;2;"ED 3211/ED-LE1";"Learning Enhancement 1";"COED";5;"{}";"2021-2022";2
+117;0;2;"ED 4112/ED-ELC 1";"Field Study 1 (Observations of Teaching-Learning in Actual School Environment)";"COED";7;"{}";"2021-2022";1
+118;0;2;"ED 4113/ED-ELC 2";"Field Study 2 (Participation and Teaching Assistanship)";"COED";7;"{}";"2021-2022";1
+119;0;2;"ED 4114/ED-LE 2";"Learning Enhancement 2";"COED";5;"{}";"2021-2022";1
+120;0;2;"RES 2";"Technology Research 2 (Thesis Writing)";"COED";7;"{}";"2021-2022";1
+122;0;3;"BES-EDP";"Engineering Drawing and Plans";"COENG";3;"{}";"2023-2024";1
+123;0;3;"BES 111";"Civil Engineering Orientation";"COENG";2;"{}";"2023-2024";1
+124;0;3;"ECHEM 111";"Chemistry for Engineers (lec)";"COENG";3;"{}";"2023-2024";1
+125;0;3;"ECHEM 111L";"Chemistry for Engineers (lab)";"COENG";3;"{}";"2023-2024";1
+126;0;3;"EMATH 111";"Calculus 1";"COENG";5;"{}";"2023-2024";1
+127;0;3;"GEC-RPH";"Readings Philippine History";"COENG";3;"{}";"2023-2024";1
+128;0;3;"GEC-MMW";"Mathematics in Modern World";"COENG";3;"{}";"2023-2024";1
+129;0;3;"PATHFit 1";"Physical Activities Towards Heath and Fitness 1: Movement Competency Training";"COENG";2;"{}";"2023-2024";1
+130;0;3;"NSTP 1";"National Service Training Program 1 (CWTS 1/LTS 1/ ROTC 1)";"COENG";3;"{}";"2023-2024";1
+131;0;3;"BES-CFP";"Computer Fundamentals and Programming";"COENG";6;"{}";"2023-2024";2
+135;0;3;"GEC-STS";"Science, Technology and Society";"COENG";3;"{}";"2023-2024";2
+136;0;3;"GEC-PC";"Purposive Communication";"COENG";3;"{}";"2023-2024";2
+137;0;3;"GEC-US";"Understanding the Self";"COENG";3;"{}";"2023-2024";2
+141;0;3;"BES-CAD";"Computer-Aided Drafting";"COENG";3;"{}";"2023-2024";1
+144;0;3;"EMATH 214";"Engineering Data Analysis";"COENG";3;"{}";"2023-2024";1
+145;0;3;"GEC-LWR";"Life and Works of Rizal";"COENG";3;"{}";"2023-2024";1
+151;0;3;"GEC-AA";"Art Appreciation";"COENG";3;"{}";"2023-2024";2
+152;0;3;"GEC-CW";"The Contemporary World";"COENG";3;"{}";"2023-2024";2
+153;0;3;"GEC-TEM";"The Entrepreneurial Mind";"COENG";3;"{}";"2023-2024";2
+155;0;3;"GEE-LIE";"Living in the IT Era";"COENG";3;"{}";"2023-2024";3
+156;0;3;"GEC-E";"Ethics";"COENG";3;"{}";"";3
+157;0;3;"GEE-ES";"Environmental Science";"COENG";3;"{}";"";3
+180;0;3;"BES-T";"Technopreneurship 101";"COENG";3;"{}";"2021-2022";1
+190;0;4;"EMATH 111";"Calculus 1";"COENG";1;"{}";"2023-2024";1
+191;0;4;"ME 111";"Mechanical Engineering Orientation";"COENG";1;"{}";"2023-2024";1
+192;0;4;"EMATH 111";"Calculus 1";"COENG";5;"{}";"2023-2024";1
+193;0;4;"ECHEM";"Chemistry for Engineers (lec)";"COENG";3;"{}";"2023-2024";1
+194;0;4;"ECHEML";"Chemestry for Engineers (lab)";"COENG";3;"{}";"2023-2024";1
+195;0;4;"BES-ED";"Engineering Drawing";"COENG";3;"{}";"2023-2024";1
+196;0;4;"GEC-MMW";"Mathematics in the Modern World";"COENG";3;"{}";"2023-2024";1
+197;0;4;"GEC-RPH";"Readings in Philipine History";"COENG";3;"{}";"2023-2024";1
+198;0;4;"PATHFit 1";"Physical Activities Towards Health and Fitness 1: Movement Competency Training";"COENG";2;"{}";"2023-2024";1
+199;0;4;"NSTP 1";"National Service Training Program 1( CWTS 1/LTS 1/ROTC 1)";"COENG";3;"{}";"2023-2024";1
+204;0;4;"GEC-PC";"Purposive Communication";"COENG";3;"{}";"2023-2024";2
+205;0;4;"GEC-STS";"Science,Technology, and Society";"COENG";3;"{}";"2023-2024";2
+206;0;4;"GEC-US";"Understanding the Self";"COENG";3;"{}";"2023-2024";2
+215;0;4;"BES-CFP";"Computer Fundamentals and Programming";"COENG";3;"{}";"2023-2024";1
+217;0;4;"GEC-LWR";"Life and Works of Rizal";"COENG";3;"{}";"2023-2024";1
+226;0;4;"GEC-TCW";"The Contemporary World";"COENG";3;"{}";"2023-2024";2
+227;0;4;"GEC-AA";"Art Appreciation";"COENG";3;"{}";"2023-2024";2
+229;0;4;"GEE-ES";"Environmental Science";"COENG";3;"{}";"2023-2024";3
+230;0;4;"GEE-LIE";"Living in the IT Era";"COENG";3;"{}";"2023-2024";3
+231;0;4;"GEC-E";"Ethics";"COENG";3;"{}";"2023-2024";3
+241;0;4;"BES-EE";"Engineering Economics";"COENG";3;"{}";"2021-2022";1
+247;0;4;"ME 3218";"Basic Occupational Safety and Health";"COENG";3;"{}";"2021-2022";2
+252;0;4;"GEE-TEM";"The Entrepreneurial Mind";"COENG";3;"{}";"2021-2022";2
+253;0;4;"BES-EM";"Engineering Management";"COENG";2;"{}";"2021-2022";2
+274;0;5;"EE-IPC 111";"Residential, Commercial, and Industrial Wiring";"COENG";4;"{}";"2023-2024";1
+275;0;5;"EMATH 111";"Calculus 1";"COENG";5;"{}";"2023-2024";1
+276;0;5;"ECHEM";"Chemistry for Engineers (lec)";"COENG";3;"{}";"2023-2024";1
+277;0;5;"ECHEML";"Chemistry for Engineers (lab()";"COENG";3;"{}";"2023-2024";1
+278;0;5;"BES-CAD";"Computer Aided Drafting";"COENG";3;"{}";"2023-2024";1
+279;0;5;"GEC-MMW";"Mathematics in the Modern World";"COENG";3;"{}";"2023-2024";1
+280;0;5;"GEC-RPH";"Reading in Philippine History";"COENG";3;"{}";"2023-2024";1
+281;0;5;"GEC-E";"Ethics";"COENG";3;"{}";"2023-2024";1
+282;0;5;"PATHFit 1";"Physical Activities Towards Heath and Fitness 1: Movement Competency Training";"COENG";2;"{}";"2023-2024";1
+283;0;5;"NSTP 1";"National Service Training Program 1 (CWTS 1/LTS 1/ ROTC 1)";"COENG";3;"{}";"2023-2024";1
+290;0;5;"GEE-TEM";"Understanding the Self";"COENG";3;"{}";"2023-2024";1
+291;0;5;"GEE-LIE";"The Contemporary World";"COENG";3;"{}";"2023-2024";1
+292;0;5;"GEC-LWR";"Life and Works of Rizal";"COENG";3;"{}";"2023-2024";1
+300;0;5;"GEE-TEM";"The Entrepreneurial Mind";"COENG";3;"{}";"2023-2024";1
+301;0;5;"GEE-LIE";"Living in the IT Era";"COENG";3;"{}";"2023-2024";1
+302;0;5;"GEC-LWR";"Life and Works of Rizal";"COENG";3;"{}";"2023-2024";1
+310;0;5;"GEE-PEE";"People and the Earth'sEcosystems";"COENG";3;"{}";"2023-2024";2
+311;0;5;"GEC-AA";"Art Appreciation";"COENG";3;"{}";"2023-2024";2
+327;0;5;"EE-AC  3212";"Basic Occupational Safety and Health";"COENG";3;"{}";"2023-2024";2
+329;0;5;"EE-AC 3213";"Environmental Science and Engineering";"COENG";3;"{}";"2023-2024";2
+346;0;6;"CompTech 111";"Computer Electronics";"COT";15;"{}";"2023-2024";1
+347;0;6;"Draw 111";"Fundamebtals of Technical Drawing and Sketching";"COT";3;"{}";"2023-2024";1
+348;0;6;"AST 111";"Fundamentals of Electrical and Electronics";"COT";3;"{}";"2023-2024";1
+349;0;6;"GEC-PC";"Purposive Communication";"COT";3;"{}";"2023-2024";1
+350;0;6;"GEC-STS";"Science, Technology and Society";"COT";3;"{}";"2023-2024";1
+351;0;6;"GEC-US";"Understanding the Self";"COT";3;"{}";"2023-2024";1
+352;0;6;"PATHFit 1";"Physical Activities Towards Health and Fitness 1: Movement Competency Training";"COT";2;"{}";"2023-2024";1
+353;0;6;"NSTP 1";"National Service Training Program 1 (CWTS 1/LTS 1/ ROTC 1)";"COT";3;"{}";"2023-2024";1
+356;0;6;"Comp 1";"Offfice Productivity Application Software";"COT";5;"{}";"2023-2024";2
+358;0;6;"GEC-RPH";"Reading Philippine History";"COT";3;"{}";"2023-2024";2
+359;0;6;"GEC-E";"Ethics";"COT";3;"{}";"2023-2024";2
+363;0;6;"CTC 211";"Fundamentals of Programming";"COT";6;"{}";"2023-2024";1
+366;0;6;"GEC-TCW";"The Contemporary World";"COT";3;"{}";"2023-2024";1
+367;0;6;"GEC-AA";"Art Apreciation";"COT";3;"{}";"2023-2024";1
+368;0;6;"GEE-LIE";"Living in the IT Era";"COT";3;"{}";"2023-2024";1
+375;0;6;"GEE-ES";"Environment Science";"COT";3;"{}";"2023-2024";2
+376;0;6;"GEC-MMW";"Mathematics in the Modern World";"COT";3;"{}";"2023-2024";2
+379;0;6;"IM 311";"Fundamentals of Research";"COT";3;"{}";"2021-2022";1
+380;0;6;"IM 312";"Industrial Psychology and Group Dynamics";"COT";3;"{}";"2021-2022";1
+381;0;6;"IM 313";"Occupational Safety and Health";"COT";3;"{}";"2021-2022";1
+382;0;6;"IM 314";"Shop Supervision and Apprenticeship Training";"COT";3;"{}";"2021-2022";1
+383;0;6;"AST 315";"Workshop Management";"COT";3;"{}";"2021-2022";1
+384;0;6;"GEE-FE";"Functional English";"COT";3;"{}";"2021-2022";1
+385;0;6;"Fola 1";"Foreign Language 1*( Nihongo 1/Korean 1/Chinese 1/Spanish 1/German 1)";"COT";3;"{}";"2021-2022";1
+387;0;6;"IM 325";"Industrial Organization and Management";"COT";3;"{}";"2021-2022";2
+388;0;6;"IM 326";"Personnel Administration";"COT";3;"{}";"2021-2022";2
+389;0;6;"IM 327";"Organizational Behavior and Work Ehics";"COT";3;"{}";"2021-2022";2
+391;0;6;"AST 326";"Emerging Technologies";"COT";3;"{}";"2021-2022";2
+392;0;6;"GEE-TEM";"The Enterpreneurial Mind";"COT";3;"{}";"2021-2022";2
+393;0;6;"GEC-LWR";"Life and Works of Rizal";"COT";3;"{}";"2021-2022";2
+397;0;7;"AutoTech 111";"Fundamentals of Automotive Technology";"COT";15;"{}";"2023-2024";1
+398;0;7;"Draw 111";"Fundamentals of Technical Drawing and Sketching";"COT";3;"{}";"2023-2024";1
+399;0;7;"AST 111";"Fundamentals of Electrical and Electronics";"COT";3;"{}";"2023-2024";1
+400;0;7;"GEC-PC";"Purposive Communication";"COT";3;"{}";"2023-2024";1
+401;0;7;"GEC-STS";"Science, Technology and Society";"COT";3;"{}";"2023-2024";1
+402;0;7;"GEC-US";"Understanding the Self";"COT";3;"{}";"2023-2024";1
+403;0;7;"PATHFit 1";"Physical Activities Towards Health and Fitness 1: Movement Competency Training";"COT";2;"{}";"2023-2024";1
+404;0;7;"NSTP 1";"National Service Training Program 1 (CWTS 1/LTS 1/ ROTC 1)";"COT";3;"{}";"2023-2024";1
+407;0;7;"Comp 1";"Office Productivity Application Software";"COT";5;"{}";"2023-2024";2
+409;0;7;"GEC-RPH";"Readings In Philippine History";"COT";3;"{}";"2023-2024";2
+410;0;7;"GEC-E";"Ethics";"COT";3;"{}";"2023-2024";2
+414;0;7;"ATC 211";"Automotive Electricity and Electronics";"COT";6;"{}";"2023-2024";1
+417;0;7;"GEC-TCW";"The Contemporary World";"COT";3;"{}";"2023-2024";1
+418;0;7;"GEC-AA";"Art Appreciation";"COT";3;"{}";"2023-2024";1
+419;0;7;"GEC-LIE";"Living in the IT Era";"COT";3;"{}";"2023-2024";1
+422;0;7;"ATC 222";"Diesel Engine Theory and Servicing";"COT";6;"{}";"2023-2024";2
+425;0;7;"GEE-ES";"Environmental Science";"COT";3;"{}";"2023-2024";2
+426;0;7;"GEC-MMW";"Mathematics in the Modern World";"COT";3;"{}";"2023-2024";2
+429;0;7;"IM 311";"Fundamentals of Research";"COT";3;"{}";"2021-2022";1
+430;0;7;"IM 312";"Industrial Psychology and Gorup Dynamics";"COT";3;"{}";"2021-2022";1
+431;0;7;"IM 313";"Occupational Safety and Health";"COT";3;"{}";"2021-2022";1
+432;0;7;"IM 314";"Shop Supervision and Apprenticeship Training";"COT";3;"{}";"2021-2022";1
+433;0;7;"AST 315";"Workshop Management";"COT";3;"{}";"2021-2022";1
+434;0;7;"GEE-FE";"Functional English";"COT";3;"{}";"2021-2022";1
+435;0;7;"FoLa 1";"Foreign Language 1* (Nihongo 1/Korean 1/Chinese 1/Spanish 1/German 1)";"COT";3;"{}";"2021-2022";1
+437;0;7;"IM 325";"Industrial Organization and Management";"COT";3;"{}";"2021-2022";2
+438;0;7;"IM 326";"Personnel Administration";"COT";3;"{}";"2021-2022";2
+439;0;7;"IM 327";"Organizational Behavior and Work Ethics";"COT";3;"{}";"2021-2022";2
+441;0;7;"AST 326";"Emerging Technologies";"COT";3;"{}";"2021-2022";2
+442;0;7;"GEE-TEM";"The Entrepreneurial Mind";"COT";3;"{}";"2021-2022";2
+443;0;7;"GEC-LWR";"Life and Works of Rizal";"COT";3;"{}";"2021-2022";2
+447;0;8;"GEC-US";"Understanding the Self";"COMGENT";3;"{}";"2023-2024";1
+448;0;8;"HPC 111";"Fundamentals in Lodging Operation";"COMGENT";5;"{}";"2023-2024";1
+449;0;8;"HPC 112";"Kitchen Essential and Basic Food Preparation";"COMGENT";7;"{}";"2023-2024";1
+450;0;8;"HPC113";"Fundamentals in Food Service Operation";"COMGENT";5;"{}";"2023-2024";1
+451;0;8;"N-ABM 1";"Organization and Managemment";"COMGENT";3;"{}";"2023-2024";1
+452;0;8;"N-ABM 2";"Business Finance";"COMGENT";3;"{}";"2023-2024";1
+453;0;8;"N-ABM 3";"Business Marketing";"COMGENT";3;"{}";"2023-2024";1
+454;0;8;"PATHFit 1";"Physical Activities Towards Heath and Fitness 1: Movement Competency Training";"COMGENT";2;"{}";"2023-2024";1
+455;0;8;"NSTP 1";"National Service Training Program 1 (CWTS 1/LTS 1/ ROTC 1)";"COMGENT";3;"{}";"2023-2024";1
+456;0;8;"GEC-TCW";"The Contemporary World";"COMGENT";3;"{}";"2023-2024";2
+457;0;8;"GEC-PC";"Purposive Communication";"COMGENT";3;"{}";"2023-2024";2
+458;0;8;"THC 122";"Risk Management as Applied to Safety, Security and Sanitation";"COMGENT";3;"{}";"2023-2024";2
+459;0;8;"THC 123";"Legal Aspects in Tourism and Hospitality";"COMGENT";3;"{}";"2023-2024";2
+460;0;8;"THC 124";"Professional Development and Applied Ethics";"COMGENT";3;"{}";"2023-2024";2
+462;0;8;"HPC 124";"Applied Business Tools and Technologies";"COMGENT";5;"{}";"2023-2024";2
+463;0;8;"HPC 125";"Supply Chain Management in Hospitality and Industry";"COMGENT";3;"{}";"2023-2024";2
+464;0;8;"N-ABM 4";"Applied Economcs";"COMGENT";3;"{}";"2023-2024";2
+465;0;8;"N-ABM 5";"Fundamentals of Accounting";"COMGENT";3;"{}";"2023-2024";2
+468;0;8;"GEC-LWR";"Life and Works of Rizal";"COMGENT";3;"{}";"2023-2024";1
+469;0;8;"GEC-MMW";"Mathematics in the Modern World";"COMGENT";3;"{}";"2023-2024";1
+470;0;8;"GEE-GSPS";"Gender and Society with Peace Studies";"COMGENT";3;"{}";"2023-2024";1
+472;0;8;"THC 216";"Macro Perspective of Tourism and Hospitality";"COMGENT";3;"{}";"2023-2024";1
+473;0;8;"THC 217";"Multicultural Diversity in Workpace for the Tourism Professional";"COMGENT";3;"{}";"2023-2024";1
+475;0;8;"GEE-PPC";"Philippine Popular Culture";"COMGENT";3;"{}";"2023-2024";1
+477;0;8;"GEC-STS";"Science, Technology , and Society";"COMGENT";3;"{}";"2023-2024";2
+478;0;8;"GEC-E";"Ethics";"COMGENT";3;"{}";"2023-2024";2
+479;0;8;"GEC-AA";"Arts Appreciation";"COMGENT";3;"{}";"2023-2024";2
+480;0;8;"GEE-LIE";"Living in the IT Era";"COMGENT";3;"{}";"2023-2024";2
+481;0;8;"THC 221/THC 111";"Philippine Culture and Tourism Geography";"COMGENT";3;"{}";"2023-2024";2
+482;0;8;"THC 228";"Micro Perspective of Tourism and Hospitality";"COMGENT";3;"{}";"2023-2024";2
+483;0;8;"THC 229";"Quality Service Management in Tourism and Hospitality";"COMGENT";3;"{}";"2023-2024";2
+487;0;8;"GEE-LD";"Literatures for Development";"COMGENT";3;"{}";"2021-2022";1
+488;0;8;"GEC-RPH";"Readings in Philippine History";"COMGENT";3;"{}";"2021-2022";1
+489;0;8;"HMPE 314";"Health Spa and Wellness";"COMGENT";5;"{}";"2021-2022";1
+490;0;8;"BME 1";"Strategic Management in Tourism and Hospitality Industry";"COMGENT";3;"{}";"2021-2022";1
+491;0;8;"BME 2";"Operations Management";"COMGENT";3;"{}";"2021-2022";1
+492;0;8;"HPC 317";"Research in Hospitality";"COMGENT";5;"{}";"2021-2022";1
+493;0;8;"HPC 318/FoLA 1";"Foreign Language 1 (Nihongo1/Korean 1/Chinese 1/Spanish 1/German 1)";"COMGENT";3;"{}";"2021-2022";1
+494;0;8;"HPC 319/tpc 317";"Introduction to Meeting, Incentives, Conferences and Events Management (MICE)";"COMGENT";5;"{}";"2021-2022";1
+495;0;8;"GEE-KKF";"Konstekstuwalisadong Komunikasyon sa Filipino";"COMGENT";3;"{}";"2021-2022";2
+496;0;8;"GEE-FE";"Functional English";"COMGENT";3;"{}";"2021-2022";2
+497;0;8;"GEE-FE";"Environment Science";"COMGENT";3;"{}";"2021-2022";2
+498;0;8;"THC 3210";"Entrepreneaurship inTourism and Hospitality";"COMGENT";3;"{}";"2021-2022";2
+501;0;8;"HMPE 327";"Cost Control";"COMGENT";3;"{}";"2021-2022";2
+503;0;8;"HPC 3211";"Enrgonomics and Facilities Planning for the Hospitality Industry";"COMGENT";5;"{}";"2021-2022";2
